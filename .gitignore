@@ -1,0 +1,25 @@
+# Operating System and Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+.tmp/
+
+# Build artifacts
+/build/
+/dist/
+/target/
+*.log
+
+# Dependencies
+/node_modules/
+/vendor/
+
+# Environment variables
+.env
+.env.local
+
+# Gemini CLI specific
+.gemini/
